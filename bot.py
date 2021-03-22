@@ -11,4 +11,4 @@ insta = InstaDM(username='username', password='password', headless=False)
 
 for user in users:
     # Send message
-    insta.sendMessage(user=user, message='Hey!')
+    insta.sendMessage(user=user, message='Whats up')
